@@ -19,6 +19,9 @@
 + [***Babel***](https://www.babeljs.cn/)
 > Babel 是一个 JavaScript 编译器
 
++ [***js-cookie***](https://www.npmjs.com/package/js-cookie)
+> 一个简单，轻巧的JavaScript API，用于处理Cookie
+
 
 ## ***可视化***
 + [***Echarts***](https://echarts.apache.org/zh/index.html)
